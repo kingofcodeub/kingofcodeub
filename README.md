@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+[<!--
 **quangtv29/quangtv29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning Hanoi University of Civil Engineering
+💬 Ask me about every thing
+😄 Pronouns: He/His 
+📫 How to reach me: [Facebook]
