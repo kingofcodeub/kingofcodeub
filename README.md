@@ -6,7 +6,7 @@ Hi there 👋
 
 ->💬 Ask me about every thing
 
-->😄 Pronouns: He/His 
+->😄 Pronouns: He/Him
 
 ->📫 How to reach me: [Facebook]
 ](https://www.facebook.com/TVQ17/)
